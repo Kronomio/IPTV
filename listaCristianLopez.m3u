@@ -47,11 +47,17 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/telefe.jpg" group-title="NACIONALES", TELEFE  34.1 OPCION 2
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
 
+#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0144
+
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/CANAL_13.jpg" group-title="NACIONALES", CANAL 13  33.1 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/CANAL_13.jpg" group-title="NACIONALES", CANAL 13  33.1 OPCION 2
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="CORDOBA" , EL DOCE CORDOBA
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/NET_TV.jpg" group-title="NACIONALES", NET TV 27.2
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
