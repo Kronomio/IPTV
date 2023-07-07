@@ -23,8 +23,6 @@ https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/AMERICA.png" group-title="NACIONALES", AMERICA HD  36.1
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8 
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/AMERICA.png" group-title="NACIONALES", AMERICA HD  36.1 OPCION 2
-https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/TV_PUBLICA.jpg" group-title="NACIONALES", TV PUBLICA  
@@ -54,8 +52,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/NET_TV.jpg" group-title="NACIONALES", NET TV 27.2
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png", CANAL DE LA CIUDAD
-https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 
 
 
@@ -63,8 +59,6 @@ https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCOV_Vx1baZJY9Tfvgm-UI3w
 #EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/IP_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", IP  24.5
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=2800000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/IP_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", IP  24.5 OPCION 2
-https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
 
 
@@ -74,8 +68,6 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="NOTICIAS NACIONALES", CANAL 26  24.2
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="NOTICIAS NACIONALES", CANAL 26  24.2
-https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 
 
 
