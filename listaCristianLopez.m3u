@@ -32,7 +32,7 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/CANAL_9.jpg" group-title="NACIONALES", CANAL 9  35.1
-https://www.youtube.com/watch?v=HNNSYYmP7qs
+https://www.youtube.com/live/HNNSYYmP7qs?si=764HYv53kg8H4O3B
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/CANAL_9.jpg" group-title="NACIONALES", CANAL 9  35.1 OPCION 2
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
